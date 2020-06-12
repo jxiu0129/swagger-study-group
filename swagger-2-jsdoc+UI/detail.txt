@@ -1,0 +1,5 @@
+swagger-jsdoc 安裝成功，
+引入swaggerUI: 
+    1.新增public/api-docs資料夾，放入基本檔案
+    2.把資料夾中的index.js路徑改為llocalhost:3000/swagger.json
+    3.在app.js中設定static路徑位置
